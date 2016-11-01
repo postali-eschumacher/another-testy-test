@@ -12,6 +12,7 @@ Template: passage
 
 /* awards page */
 .page-id-3120 .two_columns_25_75 > .column1 > .column_inner { padding: 10px 12px 0 0; }
+.page-id-13120 .two_columns_25_75 > .column1 > .column_inner { padding: 10px 12px 0 0; }
 
 /* news articles page - fix column width */
 .blog_holder article .post_text_holder { float: left; width: 100%; }
